@@ -13,12 +13,3 @@ wget https://raw.githubusercontent.com/airfloats/openvpn-install/master/openvpn-
 ```
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
-
-### I want to run my own VPN but don't have a server for that
-You can get a VPS from just [2 EUR](https://alphavps.com/clients/aff.php?aff=474&pid=457&currency=1) or [2 USD](https://alphavps.com/clients/aff.php?aff=474&pid=457&currency=6) per month at [AlphaVPS](https://alphavps.com/clients/aff.php?aff=474&pid=457&currency=1).
-
-### Donations
-If you want to show your appreciation, you can donate via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VBAYDL34Z7J6L) or [cryptocurrency](https://pastebin.com/raw/M2JJpQpC). Thanks!
-
-### Sponsors
-[Clever SaaS](https://www.clever-vpn.net/en?wg-referral=01LOULuQoi) – Launch your professional VPN service in 5 minutes. No tech team needed. Just $1.
